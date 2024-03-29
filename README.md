@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am trying to learn new things 👋
 
 <!--
 **Darkelves13/Darkelves13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
