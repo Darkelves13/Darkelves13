@@ -1,4 +1,4 @@
-### I am trying to learn new things 👋
+### Full-Stack Developer | MERN Stack | M.Sc. Computer Science Candidate Software Engineer | Building Scalable Web Apps (React/Node) 
 
 <!--
 **Darkelves13/Darkelves13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
